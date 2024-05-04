@@ -7,6 +7,7 @@ SSL certi - https://www.nginx.com/blog/using-free-ssltls-certificates-from-lets-
 Subdomains - https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain/ 
           https://stackoverflow.com/questions/21763205/how-can-i-find-my-nameservers-on-amazon-ec2-server
 
+Celery daemon - https://medium.com/@dipghoshraj/run-background-jobs-in-python-with-celery-and-redis-0988d2381fe8#:~:text=save%20and%20move%20this%20file,celery%20worker%20in%20the%20background.&text=Celery%20and%20Redis%20allow%20you%20to%20track%20task%20status%20and%20store%20results.
 Commands: 
 celery -A app.shortsgenie worker --loglevel INFO -E
 
